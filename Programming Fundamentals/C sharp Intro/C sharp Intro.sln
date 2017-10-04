@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greeting", "c intro\greeting.csproj", "{E1A8F2FB-9205-44E1-A2C6-B2AC294C67CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_Rectangle Area", "P2_Rectangle Area\P2_Rectangle Area.csproj", "{ADA7D94B-613A-4ACE-9EBE-4D7545C65486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3_MilesToKm", "P3_MilesToKm\P3_MilesToKm.csproj", "{25C51249-07C5-4E51-AF1C-42C893416AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A8F2FB-9205-44E1-A2C6-B2AC294C67CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A8F2FB-9205-44E1-A2C6-B2AC294C67CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A8F2FB-9205-44E1-A2C6-B2AC294C67CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A8F2FB-9205-44E1-A2C6-B2AC294C67CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA7D94B-613A-4ACE-9EBE-4D7545C65486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7D94B-613A-4ACE-9EBE-4D7545C65486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7D94B-613A-4ACE-9EBE-4D7545C65486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7D94B-613A-4ACE-9EBE-4D7545C65486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C51249-07C5-4E51-AF1C-42C893416AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C51249-07C5-4E51-AF1C-42C893416AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C51249-07C5-4E51-AF1C-42C893416AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C51249-07C5-4E51-AF1C-42C893416AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
