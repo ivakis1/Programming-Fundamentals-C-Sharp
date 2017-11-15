@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\bin\Debug\P05_MagicExchangeableWords.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\bin\Debug\P05_MagicExchangeableWords.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\bin\Debug\P05_MagicExchangeableWords.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\obj\Debug\P05_MagicExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\obj\Debug\P05_MagicExchangeableWords.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P05_MagicExchangeableWords\obj\Debug\P05_MagicExchangeableWords.pdb

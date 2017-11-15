@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\bin\Debug\P06_SumBigNumbers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\bin\Debug\P06_SumBigNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\bin\Debug\P06_SumBigNumbers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\obj\Debug\P06_SumBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\obj\Debug\P06_SumBigNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P06_SumBigNumbers\obj\Debug\P06_SumBigNumbers.pdb

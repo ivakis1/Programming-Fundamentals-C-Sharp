@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p17_Print Part of the ASCII Table\bin\Debug\p17_Print Part of the ASCII Table.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p17_Print Part of the ASCII Table\bin\Debug\p17_Print Part of the ASCII Table.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p17_Print Part of the ASCII Table\bin\Debug\p17_Print Part of the ASCII Table.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p17_Print Part of the ASCII Table\obj\Debug\p17_Print Part of the ASCII Table.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p17_Print Part of the ASCII Table\obj\Debug\p17_Print Part of the ASCII Table.pdb

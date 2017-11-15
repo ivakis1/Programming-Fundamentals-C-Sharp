@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\bin\Debug\P4_TripleSum.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\bin\Debug\P4_TripleSum.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\bin\Debug\P4_TripleSum.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\obj\Debug\P4_TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\obj\Debug\P4_TripleSum.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P4_TripleSum\obj\Debug\P4_TripleSum.pdb

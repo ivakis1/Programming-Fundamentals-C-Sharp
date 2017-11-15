@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P05_Word in Plural\bin\Debug\P05_Word in Plural.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P05_Word in Plural\bin\Debug\P05_Word in Plural.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P05_Word in Plural\bin\Debug\P05_Word in Plural.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P05_Word in Plural\obj\Debug\P05_Word in Plural.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P05_Word in Plural\obj\Debug\P05_Word in Plural.pdb

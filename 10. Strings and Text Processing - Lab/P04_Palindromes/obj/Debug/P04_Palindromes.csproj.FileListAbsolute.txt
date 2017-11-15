@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Lab\P04_Palindromes\bin\Debug\P04_Palindromes.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Lab\P04_Palindromes\bin\Debug\P04_Palindromes.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Lab\P04_Palindromes\bin\Debug\P04_Palindromes.pdb
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Lab\P04_Palindromes\obj\Debug\P04_Palindromes.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Lab\P04_Palindromes\obj\Debug\P04_Palindromes.pdb

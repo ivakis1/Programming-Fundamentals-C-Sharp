@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p3 Printing Triangle\bin\Debug\p3 Printing Triangle.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p3 Printing Triangle\obj\Debug\p3 Printing Triangle.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p3 Printing Triangle\obj\Debug\p3 Printing Triangle.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p3 Printing Triangle\obj\Debug\P03_PrintingTriangle.csprojResolveAssemblyReference.cache

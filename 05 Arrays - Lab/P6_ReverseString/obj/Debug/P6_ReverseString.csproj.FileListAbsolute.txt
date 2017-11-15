@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\bin\Debug\P6_ReverseString.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\bin\Debug\P6_ReverseString.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\bin\Debug\P6_ReverseString.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\obj\Debug\P6_ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\obj\Debug\P6_ReverseString.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P6_ReverseString\obj\Debug\P6_ReverseString.pdb

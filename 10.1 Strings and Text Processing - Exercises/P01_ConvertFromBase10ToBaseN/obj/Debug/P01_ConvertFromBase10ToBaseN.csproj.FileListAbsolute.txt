@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\bin\Debug\P01_ConvertFromBase10ToBaseN.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\bin\Debug\P01_ConvertFromBase10ToBaseN.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\bin\Debug\P01_ConvertFromBase10ToBaseN.pdb
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\obj\Debug\P01_ConvertFromBase10ToBaseN.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\obj\Debug\P01_ConvertFromBase10ToBaseN.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P01_ConvertFromBase10ToBaseN\obj\Debug\P01_ConvertFromBase10ToBaseN.pdb

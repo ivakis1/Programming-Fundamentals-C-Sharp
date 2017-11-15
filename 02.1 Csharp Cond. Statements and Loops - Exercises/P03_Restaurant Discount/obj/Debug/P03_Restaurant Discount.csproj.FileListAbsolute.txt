@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\bin\Debug\P03_Restaurant Discount.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\bin\Debug\P03_Restaurant Discount.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\bin\Debug\P03_Restaurant Discount.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\obj\Debug\P03_Restaurant Discount.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\obj\Debug\P03_Restaurant Discount.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P03_Restaurant Discount\obj\Debug\P03_Restaurant Discount.pdb

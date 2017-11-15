@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\bin\Debug\P05_PizzaIngredients.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\bin\Debug\P05_PizzaIngredients.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\bin\Debug\P05_PizzaIngredients.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\obj\Debug\P05_PizzaIngredients.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\obj\Debug\P05_PizzaIngredients.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P05_PizzaIngredients\obj\Debug\P05_PizzaIngredients.pdb

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P04_MergeFiles\bin\Debug\P04_MergeFiles.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P04_MergeFiles\bin\Debug\P04_MergeFiles.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P04_MergeFiles\bin\Debug\P04_MergeFiles.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P04_MergeFiles\obj\Debug\P04_MergeFiles.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P04_MergeFiles\obj\Debug\P04_MergeFiles.pdb

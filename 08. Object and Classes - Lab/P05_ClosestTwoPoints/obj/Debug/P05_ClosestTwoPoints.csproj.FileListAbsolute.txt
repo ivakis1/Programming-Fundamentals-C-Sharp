@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\bin\Debug\P05_ClosestTwoPoints.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\bin\Debug\P05_ClosestTwoPoints.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\bin\Debug\P05_ClosestTwoPoints.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\obj\Debug\P05_ClosestTwoPoints.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\obj\Debug\P05_ClosestTwoPoints.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab - Object and Classes\P05_ClosestTwoPoints\obj\Debug\P05_ClosestTwoPoints.pdb

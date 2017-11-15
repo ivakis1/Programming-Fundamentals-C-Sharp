@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Exact Sum of Real Numbers\bin\Debug\Exact Sum of Real Numbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Exact Sum of Real Numbers\obj\Debug\Exact Sum of Real Numbers.pdb

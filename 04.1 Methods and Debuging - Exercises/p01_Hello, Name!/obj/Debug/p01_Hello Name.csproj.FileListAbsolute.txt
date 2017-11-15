@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\bin\Debug\p01_Hello, Name!.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\bin\Debug\p01_Hello, Name!.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\bin\Debug\p01_Hello, Name!.pdb
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\obj\Debug\p01_Hello Name.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\obj\Debug\p01_Hello, Name!.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\p01_Hello, Name!\obj\Debug\p01_Hello, Name!.pdb

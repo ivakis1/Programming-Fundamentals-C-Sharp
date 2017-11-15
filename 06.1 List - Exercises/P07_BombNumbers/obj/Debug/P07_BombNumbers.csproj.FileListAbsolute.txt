@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\List - Exercises\P07_BombNumbers\bin\Debug\P07_BombNumbers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P07_BombNumbers\bin\Debug\P07_BombNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P07_BombNumbers\bin\Debug\P07_BombNumbers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P07_BombNumbers\obj\Debug\P07_BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P07_BombNumbers\obj\Debug\P07_BombNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P07_BombNumbers\obj\Debug\P07_BombNumbers.pdb

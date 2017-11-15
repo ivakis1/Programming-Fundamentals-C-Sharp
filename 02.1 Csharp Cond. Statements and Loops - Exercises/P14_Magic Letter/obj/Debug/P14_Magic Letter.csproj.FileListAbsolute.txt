@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\bin\Debug\P14_Magic Letter.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\bin\Debug\P14_Magic Letter.exe
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\bin\Debug\P14_Magic Letter.pdb
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\obj\Debug\P14_Magic Letter.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\obj\Debug\P14_Magic Letter.exe
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P14_Magic Letter\obj\Debug\P14_Magic Letter.pdb

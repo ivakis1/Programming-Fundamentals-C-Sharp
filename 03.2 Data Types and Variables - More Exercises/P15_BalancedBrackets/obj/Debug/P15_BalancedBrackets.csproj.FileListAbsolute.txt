@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\bin\Debug\P15_BalancedBrackets.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P15_BalancedBrackets\obj\Debug\P15_BalancedBrackets.csprojResolveAssemblyReference.cache

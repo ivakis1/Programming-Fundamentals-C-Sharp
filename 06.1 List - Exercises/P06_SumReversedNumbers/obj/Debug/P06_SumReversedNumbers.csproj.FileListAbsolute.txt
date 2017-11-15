@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\bin\Debug\P06_SumReversedNumbers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\obj\Debug\P06_SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\bin\Debug\P06_SumReversedNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\bin\Debug\P06_SumReversedNumbers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\obj\Debug\P06_SumReversedNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P06_SumReversedNumbers\obj\Debug\P06_SumReversedNumbers.pdb

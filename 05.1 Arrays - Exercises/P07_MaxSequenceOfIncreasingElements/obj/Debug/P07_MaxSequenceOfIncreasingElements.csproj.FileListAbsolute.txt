@@ -1,0 +1,1 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P07_MaxSequenceOfIncreasingElements\bin\Debug\P07_MaxSequenceOfIncreasingElements.exe.config

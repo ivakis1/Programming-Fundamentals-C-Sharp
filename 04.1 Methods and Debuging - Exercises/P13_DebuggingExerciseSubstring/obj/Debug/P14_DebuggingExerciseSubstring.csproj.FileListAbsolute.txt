@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\bin\Debug\P13_DebuggingExerciseSubstring.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\bin\Debug\P13_DebuggingExerciseSubstring.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\bin\Debug\P13_DebuggingExerciseSubstring.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\obj\Debug\P14_DebuggingExerciseSubstring.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\obj\Debug\P13_DebuggingExerciseSubstring.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P13_DebuggingExerciseSubstring\obj\Debug\P13_DebuggingExerciseSubstring.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\bin\Debug\P06_MaxSequenceOfEqualElements.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\bin\Debug\P06_MaxSequenceOfEqualElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\bin\Debug\P06_MaxSequenceOfEqualElements.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\obj\Debug\P06_MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\obj\Debug\P06_MaxSequenceOfEqualElements.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P06_MaxSequenceOfEqualElements\obj\Debug\P06_MaxSequenceOfEqualElements.pdb

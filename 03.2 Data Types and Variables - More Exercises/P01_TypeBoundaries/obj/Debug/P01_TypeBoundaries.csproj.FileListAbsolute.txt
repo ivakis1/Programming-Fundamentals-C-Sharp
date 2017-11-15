@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\bin\Debug\P01_TypeBoundaries.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\bin\Debug\P01_TypeBoundaries.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\bin\Debug\P01_TypeBoundaries.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\obj\Debug\P01_TypeBoundaries.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\obj\Debug\P01_TypeBoundaries.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P01_TypeBoundaries\obj\Debug\P01_TypeBoundaries.pdb

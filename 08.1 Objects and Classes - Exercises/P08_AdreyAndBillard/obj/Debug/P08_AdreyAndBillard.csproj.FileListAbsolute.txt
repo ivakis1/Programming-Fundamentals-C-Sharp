@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\bin\Debug\P08_AdreyAndBillard.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\bin\Debug\P08_AdreyAndBillard.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\bin\Debug\P08_AdreyAndBillard.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\obj\Debug\P08_AdreyAndBillard.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\obj\Debug\P08_AdreyAndBillard.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P08_AdreyAndBillard\obj\Debug\P08_AdreyAndBillard.pdb

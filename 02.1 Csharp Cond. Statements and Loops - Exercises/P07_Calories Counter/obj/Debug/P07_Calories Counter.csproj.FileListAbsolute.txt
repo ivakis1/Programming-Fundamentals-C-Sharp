@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P07_Calories Counter\bin\Debug\P07_Calories Counter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P07_Calories Counter\bin\Debug\P07_Calories Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P07_Calories Counter\bin\Debug\P07_Calories Counter.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P07_Calories Counter\obj\Debug\P07_Calories Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P07_Calories Counter\obj\Debug\P07_Calories Counter.pdb

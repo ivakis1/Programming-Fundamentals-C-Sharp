@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\bin\Debug\P09_LongerLine.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\bin\Debug\P09_LongerLine.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\bin\Debug\P09_LongerLine.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\obj\Debug\P09_LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\obj\Debug\P09_LongerLine.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P09_LongerLine\obj\Debug\P09_LongerLine.pdb

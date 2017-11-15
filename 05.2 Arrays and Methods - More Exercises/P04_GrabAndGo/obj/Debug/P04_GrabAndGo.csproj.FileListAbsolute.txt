@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\bin\Debug\P04_GrabAndGo.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\bin\Debug\P04_GrabAndGo.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\bin\Debug\P04_GrabAndGo.pdb
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\obj\Debug\P04_GrabAndGo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\obj\Debug\P04_GrabAndGo.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P04_GrabAndGo\obj\Debug\P04_GrabAndGo.pdb

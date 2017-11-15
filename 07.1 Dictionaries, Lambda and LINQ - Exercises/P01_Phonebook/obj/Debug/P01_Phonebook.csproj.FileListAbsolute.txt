@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\bin\Debug\P01_Phonebook.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\bin\Debug\P01_Phonebook.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\bin\Debug\P01_Phonebook.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\obj\Debug\P01_Phonebook.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\obj\Debug\P01_Phonebook.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\obj\Debug\P01_Phonebook.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\bin\Debug\P01_Phonebook.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\obj\Debug\P01_Phonebook.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P01_Phonebook\obj\Debug\P01_Phonebook.pdb

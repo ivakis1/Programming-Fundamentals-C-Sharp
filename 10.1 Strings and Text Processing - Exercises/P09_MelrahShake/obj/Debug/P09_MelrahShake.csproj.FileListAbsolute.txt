@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\bin\Debug\P09_MelrahShake.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\bin\Debug\P09_MelrahShake.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\bin\Debug\P09_MelrahShake.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\obj\Debug\P09_MelrahShake.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\obj\Debug\P09_MelrahShake.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P09_MelrahShake\obj\Debug\P09_MelrahShake.pdb

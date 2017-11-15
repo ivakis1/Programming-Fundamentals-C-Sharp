@@ -1,0 +1,7 @@
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\bin\Debug\Demo.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\bin\Debug\Demo.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\bin\Debug\Demo.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\obj\Debug\Demo.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\Demo\obj\Debug\Demo.pdb

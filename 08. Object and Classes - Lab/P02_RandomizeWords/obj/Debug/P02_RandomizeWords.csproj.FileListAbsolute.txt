@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Object and Classes\P02_RandomizeWords\bin\Debug\P02_RandomizeWords.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Object and Classes\P02_RandomizeWords\bin\Debug\P02_RandomizeWords.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Object and Classes\P02_RandomizeWords\bin\Debug\P02_RandomizeWords.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Object and Classes\P02_RandomizeWords\obj\Debug\P02_RandomizeWords.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Object and Classes\P02_RandomizeWords\obj\Debug\P02_RandomizeWords.pdb

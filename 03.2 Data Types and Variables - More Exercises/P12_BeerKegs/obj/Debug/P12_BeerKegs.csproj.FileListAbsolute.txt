@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P12_BeerKegs\bin\Debug\P12_BeerKegs.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P12_BeerKegs\bin\Debug\P12_BeerKegs.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P12_BeerKegs\bin\Debug\P12_BeerKegs.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P12_BeerKegs\obj\Debug\P12_BeerKegs.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P12_BeerKegs\obj\Debug\P12_BeerKegs.pdb

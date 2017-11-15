@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\bin\Debug\P02_ExtractSentencesByKeyword.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\bin\Debug\P02_ExtractSentencesByKeyword.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\bin\Debug\P02_ExtractSentencesByKeyword.pdb
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\obj\Debug\P02_ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\obj\Debug\P02_ExtractSentencesByKeyword.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P02_ExtractSentencesByKeyword\obj\Debug\P02_ExtractSentencesByKeyword.pdb

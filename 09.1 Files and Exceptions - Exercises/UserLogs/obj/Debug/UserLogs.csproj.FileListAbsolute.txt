@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\bin\Debug\UserLogs.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\bin\Debug\UserLogs.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\bin\Debug\UserLogs.pdb
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\obj\Debug\UserLogs.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\UserLogs\obj\Debug\UserLogs.pdb

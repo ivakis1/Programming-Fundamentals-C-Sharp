@@ -1,0 +1,7 @@
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\bin\Debug\demo.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\bin\Debug\demo.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\bin\Debug\demo.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\obj\Debug\demo.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Regular Expressions (REGEX) - Lab\demo\obj\Debug\demo.pdb

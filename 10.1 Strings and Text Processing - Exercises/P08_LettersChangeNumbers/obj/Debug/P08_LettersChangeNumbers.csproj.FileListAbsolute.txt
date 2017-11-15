@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\bin\Debug\P08_LettersChangeNumbers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\bin\Debug\P08_LettersChangeNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\bin\Debug\P08_LettersChangeNumbers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\obj\Debug\P08_LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\obj\Debug\P08_LettersChangeNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Strings and Text Processing - Exercises\P08_LettersChangeNumbers\obj\Debug\P08_LettersChangeNumbers.pdb

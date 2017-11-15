@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\bin\Debug\p07_Greater of Two Values.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\bin\Debug\p07_Greater of Two Values.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\bin\Debug\p07_Greater of Two Values.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\obj\Debug\p07_Greater of Two Values.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\obj\Debug\p07_Greater of Two Values.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lab Methods and Debugging\p07_Greater of Two Values\obj\Debug\p07_Greater of Two Values.pdb

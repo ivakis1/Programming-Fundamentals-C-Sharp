@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\bin\Debug\P04_AverageGrades.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\bin\Debug\P04_AverageGrades.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\bin\Debug\P04_AverageGrades.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\obj\Debug\P04_AverageGrades.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\obj\Debug\P04_AverageGrades.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P04_AverageGrades\obj\Debug\P04_AverageGrades.pdb

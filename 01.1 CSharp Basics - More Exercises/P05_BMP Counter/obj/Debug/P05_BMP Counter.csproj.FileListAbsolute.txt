@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\bin\Debug\P05_BMP Counter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\bin\Debug\P05_BMP Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\bin\Debug\P05_BMP Counter.pdb
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\obj\Debug\P05_BMP Counter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\obj\Debug\P05_BMP Counter.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P05_BMP Counter\obj\Debug\P05_BMP Counter.pdb

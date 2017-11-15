@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\bin\Debug\P4_Hotel.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\bin\Debug\P4_Hotel.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\bin\Debug\P4_Hotel.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\obj\Debug\P4_Hotel.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\obj\Debug\P4_Hotel.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P4_Hotel\obj\Debug\P4_Hotel.pdb

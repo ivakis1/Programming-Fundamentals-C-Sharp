@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\bin\Debug\P02_Manipulate Array.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\bin\Debug\P02_Manipulate Array.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\bin\Debug\P02_Manipulate Array.pdb
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\obj\Debug\P02_Manipulate Array.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\obj\Debug\P02_Manipulate Array.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P02_Manipulate Array\obj\Debug\P02_Manipulate Array.pdb

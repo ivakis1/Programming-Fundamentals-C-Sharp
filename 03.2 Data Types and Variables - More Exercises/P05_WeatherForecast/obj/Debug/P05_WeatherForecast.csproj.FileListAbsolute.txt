@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P05_WeatherForecast\bin\Debug\P05_WeatherForecast.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P05_WeatherForecast\bin\Debug\P05_WeatherForecast.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P05_WeatherForecast\bin\Debug\P05_WeatherForecast.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P05_WeatherForecast\obj\Debug\P05_WeatherForecast.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P05_WeatherForecast\obj\Debug\P05_WeatherForecast.pdb

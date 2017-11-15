@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\bin\Debug\p12_Rectangle Area.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\bin\Debug\p12_Rectangle Area.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\bin\Debug\p12_Rectangle Area.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\obj\Debug\p12_Rectangle Area.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\obj\Debug\p12_Rectangle Area.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p12_Rectangle Area\obj\Debug\p12_Rectangle Area.csprojResolveAssemblyReference.cache

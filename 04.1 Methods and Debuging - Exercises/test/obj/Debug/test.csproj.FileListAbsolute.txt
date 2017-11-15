@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\test\bin\Debug\test.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\test\bin\Debug\test.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\test\bin\Debug\test.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\test\obj\Debug\test.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\test\obj\Debug\test.pdb

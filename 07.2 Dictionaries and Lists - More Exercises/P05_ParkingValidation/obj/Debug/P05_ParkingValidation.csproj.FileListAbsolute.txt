@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\bin\Debug\P05_ParkingValidation.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\bin\Debug\P05_ParkingValidation.exe
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\bin\Debug\P05_ParkingValidation.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\obj\Debug\P05_ParkingValidation.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\obj\Debug\P05_ParkingValidation.exe
+C:\Users\User\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P05_ParkingValidation\obj\Debug\P05_ParkingValidation.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.pdb
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.pdb
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\bin\Debug\P03_SearchForANumber.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\List - Exercises\P03_SearchForANumber\obj\Debug\P03_SearchForANumber.pdb

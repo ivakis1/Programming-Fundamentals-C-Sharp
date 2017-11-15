@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\bin\Debug\P08_UpgradedMatcher.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\bin\Debug\P08_UpgradedMatcher.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\bin\Debug\P08_UpgradedMatcher.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\obj\Debug\P08_UpgradedMatcher.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\obj\Debug\P08_UpgradedMatcher.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P08_UpgradedMatcher\obj\Debug\P08_UpgradedMatcher.pdb

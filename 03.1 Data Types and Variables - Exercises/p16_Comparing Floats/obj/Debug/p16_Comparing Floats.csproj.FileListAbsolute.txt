@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\bin\Debug\p16_Comparing Floats.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\bin\Debug\p16_Comparing Floats.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\bin\Debug\p16_Comparing Floats.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\obj\Debug\p16_Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\obj\Debug\p16_Comparing Floats.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p16_Comparing Floats\obj\Debug\p16_Comparing Floats.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\bin\Debug\P07_InventoryMatcher.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\bin\Debug\P07_InventoryMatcher.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\bin\Debug\P07_InventoryMatcher.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\obj\Debug\P07_InventoryMatcher.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\obj\Debug\P07_InventoryMatcher.exe
+C:\Users\User\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P07_InventoryMatcher\obj\Debug\P07_InventoryMatcher.pdb

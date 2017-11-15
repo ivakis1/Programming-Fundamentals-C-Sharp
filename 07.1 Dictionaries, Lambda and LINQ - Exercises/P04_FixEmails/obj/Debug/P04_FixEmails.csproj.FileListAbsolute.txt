@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\bin\Debug\P04_FixEmails.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Dictionaries, Lambda and LINQ\P04_FixEmails\obj\Debug\P04_FixEmails.pdb

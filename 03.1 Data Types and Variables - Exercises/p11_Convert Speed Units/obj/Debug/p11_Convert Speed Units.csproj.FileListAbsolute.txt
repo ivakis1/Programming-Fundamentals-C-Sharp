@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\bin\Debug\p11_Convert Speed Units.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p11_Convert Speed Units\obj\Debug\p11_Convert Speed Units.pdb

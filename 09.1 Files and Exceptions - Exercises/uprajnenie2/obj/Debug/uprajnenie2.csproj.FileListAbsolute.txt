@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\bin\Debug\uprajnenie2.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\bin\Debug\uprajnenie2.exe
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\bin\Debug\uprajnenie2.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\obj\Debug\uprajnenie2.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\obj\Debug\uprajnenie2.exe
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\uprajnenie2\obj\Debug\uprajnenie2.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\bin\Debug\P07_Hideout.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\bin\Debug\P07_Hideout.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\bin\Debug\P07_Hideout.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\obj\Debug\P07_Hideout.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\obj\Debug\P07_Hideout.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Strings And REGEX - More Exercises\P07_Hideout\obj\Debug\P07_Hideout.pdb

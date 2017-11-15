@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\bin\Debug\P02_ChangeList.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\obj\Debug\P02_ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\bin\Debug\P02_ChangeList.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\bin\Debug\P02_ChangeList.pdb
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\obj\Debug\P02_ChangeList.exe
+C:\Users\User\documents\visual studio 2015\Projects\List - Exercises\P02_ChangeList\obj\Debug\P02_ChangeList.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\bin\Debug\P9Extract Middle Elements.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\bin\Debug\P9Extract Middle Elements.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\bin\Debug\P9Extract Middle Elements.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\obj\Debug\P9_Extract Middle Elements.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\obj\Debug\P9Extract Middle Elements.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P9Extract Middle Elements\obj\Debug\P9Extract Middle Elements.pdb

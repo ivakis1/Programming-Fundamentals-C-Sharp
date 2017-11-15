@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P02_LineNumbers\bin\Debug\P02_LineNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P02_LineNumbers\bin\Debug\P02_LineNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P02_LineNumbers\bin\Debug\P02_LineNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P02_LineNumbers\obj\Debug\P02_LineNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P02_LineNumbers\obj\Debug\P02_LineNumbers.pdb

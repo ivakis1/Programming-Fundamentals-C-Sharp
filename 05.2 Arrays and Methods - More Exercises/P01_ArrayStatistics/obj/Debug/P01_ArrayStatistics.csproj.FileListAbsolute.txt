@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\bin\Debug\P01_ArrayStatistics.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\bin\Debug\P01_ArrayStatistics.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\bin\Debug\P01_ArrayStatistics.pdb
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\obj\Debug\P01_ArrayStatistics.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\obj\Debug\P01_ArrayStatistics.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P01_ArrayStatistics\obj\Debug\P01_ArrayStatistics.pdb

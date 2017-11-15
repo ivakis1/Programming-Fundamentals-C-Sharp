@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\bin\Debug\P3LastKNumbersSumsSequence.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\bin\Debug\P3LastKNumbersSumsSequence.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\bin\Debug\P3LastKNumbersSumsSequence.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\obj\Debug\P3LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\obj\Debug\P3LastKNumbersSumsSequence.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P3LastKNumbersSumsSequence\obj\Debug\P3LastKNumbersSumsSequence.pdb

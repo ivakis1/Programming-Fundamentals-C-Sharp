@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\bin\Debug\P03_Safemanipulation.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\bin\Debug\P03_Safemanipulation.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\bin\Debug\P03_Safemanipulation.pdb
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\obj\Debug\P03_Safemanipulation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\obj\Debug\P03_Safemanipulation.exe
+c:\users\user\documents\visual studio 2015\Projects\Arrays and Methods - More Exercises\P03_Safemanipulation\obj\Debug\P03_Safemanipulation.pdb

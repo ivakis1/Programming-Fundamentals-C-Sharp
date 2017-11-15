@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\bin\Debug\P04_PhotoGallery.pdb
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.exe
+c:\users\user\documents\visual studio 2015\Projects\CSharp Basics - More Exercises\P04_PhotoGallery\obj\Debug\P04_PhotoGallery.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\bin\Debug\P02_OddFilter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\bin\Debug\P02_OddFilter.exe
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\bin\Debug\P02_OddFilter.pdb
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\obj\Debug\P02_OddFilter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\obj\Debug\P02_OddFilter.exe
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P02_OddFilter\obj\Debug\P02_OddFilter.pdb

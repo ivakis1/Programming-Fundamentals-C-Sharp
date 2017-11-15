@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\bin\Debug\P07_SentenceTheThief.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P07_SentenceTheThief\obj\Debug\P07_SentenceTheThief.pdb

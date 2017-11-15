@@ -1,0 +1,7 @@
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\bin\Debug\P016_InstructionSet.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\bin\Debug\P016_InstructionSet.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\bin\Debug\P016_InstructionSet.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\obj\Debug\P016_InstructionSet.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\obj\Debug\P016_InstructionSet.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\obj\Debug\P016_InstructionSet.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Methods and Debuging - Exercises\P016_InstructionSet\obj\Debug\P016_InstructionSet.pdb

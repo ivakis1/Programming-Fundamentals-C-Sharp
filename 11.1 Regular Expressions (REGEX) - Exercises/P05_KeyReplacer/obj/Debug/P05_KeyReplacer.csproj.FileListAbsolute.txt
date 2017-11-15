@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\bin\Debug\P05_KeyReplacer.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\bin\Debug\P05_KeyReplacer.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\bin\Debug\P05_KeyReplacer.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\obj\Debug\P05_KeyReplacer.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\obj\Debug\P05_KeyReplacer.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P05_KeyReplacer\obj\Debug\P05_KeyReplacer.pdb

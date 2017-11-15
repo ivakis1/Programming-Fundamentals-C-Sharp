@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p07_Exchange Variable Values\bin\Debug\p07_Exchange Variable Values.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p07_Exchange Variable Values\bin\Debug\p07_Exchange Variable Values.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p07_Exchange Variable Values\bin\Debug\p07_Exchange Variable Values.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p07_Exchange Variable Values\obj\Debug\p07_Exchange Variable Values.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p07_Exchange Variable Values\obj\Debug\p07_Exchange Variable Values.pdb

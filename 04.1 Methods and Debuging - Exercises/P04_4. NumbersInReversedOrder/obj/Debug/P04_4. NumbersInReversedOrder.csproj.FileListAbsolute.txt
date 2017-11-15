@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\bin\Debug\P04_4.NumbersInReversedOrder.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\bin\Debug\P04_4.NumbersInReversedOrder.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\bin\Debug\P04_4.NumbersInReversedOrder.pdb
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\obj\Debug\P04_4. NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\obj\Debug\P04_4.NumbersInReversedOrder.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P04_4. NumbersInReversedOrder\obj\Debug\P04_4.NumbersInReversedOrder.pdb

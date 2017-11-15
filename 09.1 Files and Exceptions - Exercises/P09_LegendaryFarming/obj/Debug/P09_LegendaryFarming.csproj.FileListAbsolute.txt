@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\bin\Debug\P09_LegendaryFarming.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\bin\Debug\P09_LegendaryFarming.exe
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\bin\Debug\P09_LegendaryFarming.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\obj\Debug\P09_LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\obj\Debug\P09_LegendaryFarming.exe
+C:\Users\User\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P09_LegendaryFarming\obj\Debug\P09_LegendaryFarming.pdb

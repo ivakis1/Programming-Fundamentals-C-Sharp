@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\bin\Debug\P07_QueryMess.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\bin\Debug\P07_QueryMess.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\bin\Debug\P07_QueryMess.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\obj\Debug\P07_QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\obj\Debug\P07_QueryMess.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P07_QueryMess\obj\Debug\P07_QueryMess.pdb

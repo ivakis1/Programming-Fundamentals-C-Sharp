@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\bin\Debug\P14_BoatSimulator.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.exe
+C:\Users\User\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P14_BoatSimulator\obj\Debug\P14_BoatSimulator.pdb

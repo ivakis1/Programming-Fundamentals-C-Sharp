@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\bin\Debug\P04_Weather.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\bin\Debug\P04_Weather.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\bin\Debug\P04_Weather.pdb
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\obj\Debug\P04_Weather.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\obj\Debug\P04_Weather.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P04_Weather\obj\Debug\P04_Weather.pdb

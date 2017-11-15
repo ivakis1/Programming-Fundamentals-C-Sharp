@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p03_PracticeCharactersAndStrings\bin\Debug\p03_PracticeCharactersAndStrings.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p03_PracticeCharactersAndStrings\bin\Debug\p03_PracticeCharactersAndStrings.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p03_PracticeCharactersAndStrings\bin\Debug\p03_PracticeCharactersAndStrings.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p03_PracticeCharactersAndStrings\obj\Debug\p03_PracticeCharactersAndStrings.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p03_PracticeCharactersAndStrings\obj\Debug\p03_PracticeCharactersAndStrings.pdb

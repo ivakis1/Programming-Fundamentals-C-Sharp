@@ -1,0 +1,7 @@
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\bin\Debug\AndreyTest.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\bin\Debug\AndreyTest.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\bin\Debug\AndreyTest.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\obj\Debug\AndreyTest.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\obj\Debug\AndreyTest.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\obj\Debug\AndreyTest.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\AndreyTest\obj\Debug\AndreyTest.pdb

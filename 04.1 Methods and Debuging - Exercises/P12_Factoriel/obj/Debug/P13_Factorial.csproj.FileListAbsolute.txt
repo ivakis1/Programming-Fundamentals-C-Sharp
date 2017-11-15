@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\bin\Debug\P12_Factoriel.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\bin\Debug\P12_Factoriel.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\bin\Debug\P12_Factoriel.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\obj\Debug\P12_Factoriel.exe
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\obj\Debug\P12_Factoriel.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P12_Factoriel\obj\Debug\P13_Factorial.csprojResolveAssemblyReference.cache

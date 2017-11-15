@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\bin\Debug\P8_Condense Array to Number.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\bin\Debug\P8_Condense Array to Number.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\bin\Debug\P8_Condense Array to Number.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\obj\Debug\P8_Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\obj\Debug\P8_Condense Array to Number.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P8_Condense Array to Number\obj\Debug\P8_Condense Array to Number.pdb

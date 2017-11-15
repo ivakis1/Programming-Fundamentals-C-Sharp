@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\bin\Debug\P01_Censorship.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\bin\Debug\P01_Censorship.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\bin\Debug\P01_Censorship.pdb
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\obj\Debug\P01_Censorship.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\obj\Debug\P01_Censorship.exe
+c:\users\user\documents\visual studio 2015\Projects\Strings And REGEX - More Exercises\P01_Censorship\obj\Debug\P01_Censorship.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Strings And REGEX - More Exercises\P01_Censorship\bin\Debug\P01_Censorship.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Strings And REGEX - More Exercises\P01_Censorship\obj\Debug\P01_Censorship.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Strings And REGEX - More Exercises\P01_Censorship\obj\Debug\P01_Censorship.pdb

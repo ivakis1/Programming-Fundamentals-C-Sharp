@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\bin\Debug\P10_Triangle of Numbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\bin\Debug\P10_Triangle of Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\bin\Debug\P10_Triangle of Numbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\obj\Debug\P10_Triangle of Numbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\obj\Debug\P10_Triangle of Numbers.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P10_Triangle of Numbers\obj\Debug\P10_Triangle of Numbers.pdb

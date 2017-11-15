@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\bin\Debug\P1_Choose a Drink.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\bin\Debug\P1_Choose a Drink.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\bin\Debug\P1_Choose a Drink.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\obj\Debug\P1_Choose a Drink.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\obj\Debug\P1_Choose a Drink.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P1_Choose a Drink\obj\Debug\P1_Choose a Drink.pdb

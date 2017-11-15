@@ -1,0 +1,3 @@
+c:\users\user\documents\visual studio 2015\Projects\Lists Lab\P01_RemoveNegativesAndReverse\bin\Debug\P01_RemoveNegativesAndReverse.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lists Lab\P01_RemoveNegativesAndReverse\obj\Debug\P01_RemoveNegativesAndReverse.exe
+c:\users\user\documents\visual studio 2015\Projects\Lists Lab\P01_RemoveNegativesAndReverse\obj\Debug\P01_RemoveNegativesAndReverse.pdb

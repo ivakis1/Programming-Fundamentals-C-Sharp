@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\bin\Debug\P07_PopulationCenter.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\bin\Debug\P07_PopulationCenter.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\bin\Debug\P07_PopulationCenter.pdb
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\obj\Debug\P07_PopulationCenter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\obj\Debug\P07_PopulationCenter.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P07_PopulationCenter\obj\Debug\P07_PopulationCenter.pdb

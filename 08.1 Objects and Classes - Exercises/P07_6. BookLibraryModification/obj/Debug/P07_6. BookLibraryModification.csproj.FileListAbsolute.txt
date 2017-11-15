@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\bin\Debug\P07_6.BookLibraryModification.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\bin\Debug\P07_6.BookLibraryModification.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\bin\Debug\P07_6.BookLibraryModification.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\obj\Debug\P07_6. BookLibraryModification.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\obj\Debug\P07_6.BookLibraryModification.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Objects and Classes\P07_6. BookLibraryModification\obj\Debug\P07_6.BookLibraryModification.pdb

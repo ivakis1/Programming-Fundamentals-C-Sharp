@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\bin\Debug\P06_ValidUsernames.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\bin\Debug\P06_ValidUsernames.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\bin\Debug\P06_ValidUsernames.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\obj\Debug\P06_ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\obj\Debug\P06_ValidUsernames.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P06_ValidUsernames\obj\Debug\P06_ValidUsernames.pdb

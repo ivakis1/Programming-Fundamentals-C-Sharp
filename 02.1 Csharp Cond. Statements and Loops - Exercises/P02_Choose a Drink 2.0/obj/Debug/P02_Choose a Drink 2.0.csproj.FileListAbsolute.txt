@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P02_Choose a Drink 2.0\bin\Debug\P02_Choose a Drink 2.0.exe.config
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P02_Choose a Drink 2.0\bin\Debug\P02_Choose a Drink 2.0.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P02_Choose a Drink 2.0\bin\Debug\P02_Choose a Drink 2.0.pdb
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P02_Choose a Drink 2.0\obj\Debug\P02_Choose a Drink 2.0.exe
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P02_Choose a Drink 2.0\obj\Debug\P02_Choose a Drink 2.0.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\bin\Debug\P02_OddOccurrences.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\bin\Debug\P02_OddOccurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\bin\Debug\P02_OddOccurrences.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\obj\Debug\P02_OddOccurrences.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\obj\Debug\P02_OddOccurrences.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P02_OddOccurrences\obj\Debug\P02_OddOccurrences.pdb

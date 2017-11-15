@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\bin\Debug\P01_OddLines.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\bin\Debug\P01_OddLines.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\bin\Debug\P01_OddLines.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\obj\Debug\P01_OddLines.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\obj\Debug\P01_OddLines.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Files and Exceptions\P01_OddLines\obj\Debug\P01_OddLines.pdb

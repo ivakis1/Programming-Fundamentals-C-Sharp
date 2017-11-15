@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\bin\Debug\P10_CubePropertise.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\bin\Debug\P10_CubePropertise.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\bin\Debug\P10_CubePropertise.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\obj\Debug\P10_CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\obj\Debug\P10_CubePropertise.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P10_CubePropertise\obj\Debug\P10_CubePropertise.pdb

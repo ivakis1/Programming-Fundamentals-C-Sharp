@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\bin\Debug\P03_MinerTask.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\bin\Debug\P03_MinerTask.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\bin\Debug\P03_MinerTask.pdb
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\obj\Debug\P03_MinerTask.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\obj\Debug\P03_MinerTask.exe
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P03_MinerTask\obj\Debug\P03_MinerTask.pdb

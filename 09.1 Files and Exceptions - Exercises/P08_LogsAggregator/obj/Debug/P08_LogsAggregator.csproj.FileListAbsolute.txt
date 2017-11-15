@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\bin\Debug\P08_LogsAggregator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\bin\Debug\P08_LogsAggregator.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\bin\Debug\P08_LogsAggregator.pdb
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\obj\Debug\P08_LogsAggregator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\obj\Debug\P08_LogsAggregator.exe
+c:\users\user\documents\visual studio 2015\Projects\Files and Exceptions - Exercises\P08_LogsAggregator\obj\Debug\P08_LogsAggregator.pdb

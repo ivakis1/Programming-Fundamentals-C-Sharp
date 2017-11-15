@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\bin\Debug\P07_Primes in Given Range.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\obj\Debug\P07_Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\bin\Debug\P07_Primes in Given Range.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\bin\Debug\P07_Primes in Given Range.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\obj\Debug\P07_Primes in Given Range.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Methods and Debuging - Exercises\P07_Primes in Given Range\obj\Debug\P07_Primes in Given Range.pdb

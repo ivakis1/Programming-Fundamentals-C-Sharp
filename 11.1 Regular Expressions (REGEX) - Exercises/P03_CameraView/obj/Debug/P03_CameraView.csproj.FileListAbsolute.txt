@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\bin\Debug\P03_CameraView.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\bin\Debug\P03_CameraView.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\bin\Debug\P03_CameraView.pdb
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\obj\Debug\P03_CameraView.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\obj\Debug\P03_CameraView.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P03_CameraView\obj\Debug\P03_CameraView.pdb

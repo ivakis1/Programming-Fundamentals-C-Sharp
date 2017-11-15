@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\bin\Debug\P03_EnglishNameOfTheLastDigit.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\bin\Debug\P03_EnglishNameOfTheLastDigit.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\bin\Debug\P03_EnglishNameOfTheLastDigit.pdb
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\obj\Debug\P03_EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\obj\Debug\P03_EnglishNameOfTheLastDigit.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P03_EnglishNameOfTheLastDigit\obj\Debug\P03_EnglishNameOfTheLastDigit.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\bin\Debug\P01_CountRealNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\bin\Debug\P01_CountRealNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\bin\Debug\P01_CountRealNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\obj\Debug\P01_CountRealNumbers.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\obj\Debug\P01_CountRealNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab - Dictionaries, Lambda and LINQ\P01_CountRealNumbers\obj\Debug\P01_CountRealNumbers.pdb

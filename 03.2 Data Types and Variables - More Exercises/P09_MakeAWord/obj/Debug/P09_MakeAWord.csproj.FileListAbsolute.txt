@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P09_MakeAWord\bin\Debug\P09_MakeAWord.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P09_MakeAWord\bin\Debug\P09_MakeAWord.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P09_MakeAWord\bin\Debug\P09_MakeAWord.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P09_MakeAWord\obj\Debug\P09_MakeAWord.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - More Exercises\P09_MakeAWord\obj\Debug\P09_MakeAWord.pdb

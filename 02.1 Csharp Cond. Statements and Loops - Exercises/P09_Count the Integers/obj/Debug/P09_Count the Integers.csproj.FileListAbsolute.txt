@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\bin\Debug\P09_Count the Integers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\bin\Debug\P09_Count the Integers.exe
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\bin\Debug\P09_Count the Integers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\obj\Debug\P09_Count the Integers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\obj\Debug\P09_Count the Integers.exe
+C:\Users\User\documents\visual studio 2015\Projects\C Cond. Statements and Loops - Exercises\P09_Count the Integers\obj\Debug\P09_Count the Integers.pdb

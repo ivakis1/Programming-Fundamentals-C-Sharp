@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\bin\Debug\P08_UseYourChainsBuddy.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\bin\Debug\P08_UseYourChainsBuddy.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\bin\Debug\P08_UseYourChainsBuddy.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\obj\Debug\P08_UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\obj\Debug\P08_UseYourChainsBuddy.exe
+C:\Users\User\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Exercises\P08_UseYourChainsBuddy\obj\Debug\P08_UseYourChainsBuddy.pdb

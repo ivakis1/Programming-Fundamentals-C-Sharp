@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\bin\Debug\P01_SortTimes.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\bin\Debug\P01_SortTimes.exe
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\bin\Debug\P01_SortTimes.pdb
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\obj\Debug\P01_SortTimes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\obj\Debug\P01_SortTimes.exe
+c:\users\user\documents\visual studio 2015\Projects\Dictionaries and Lists - More Exercises\P01_SortTimes\obj\Debug\P01_SortTimes.pdb

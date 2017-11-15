@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\bin\Debug\P5_RoundingNumbersAwayFromZero.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\bin\Debug\P5_RoundingNumbersAwayFromZero.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\bin\Debug\P5_RoundingNumbersAwayFromZero.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\obj\Debug\P5_RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\obj\Debug\P5_RoundingNumbersAwayFromZero.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P5_RoundingNumbersAwayFromZero\obj\Debug\P5_RoundingNumbersAwayFromZero.pdb

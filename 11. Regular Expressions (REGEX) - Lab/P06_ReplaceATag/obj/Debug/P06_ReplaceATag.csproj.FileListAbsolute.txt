@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\bin\Debug\P06_ReplaceATag.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\bin\Debug\P06_ReplaceATag.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\bin\Debug\P06_ReplaceATag.pdb
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\obj\Debug\P06_ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\obj\Debug\P06_ReplaceATag.exe
+c:\users\user\documents\visual studio 2015\Projects\Regular Expressions (REGEX) - Lab\P06_ReplaceATag\obj\Debug\P06_ReplaceATag.pdb

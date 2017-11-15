@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab Methods and Debugging\p2 Sign of Integer Number\bin\Debug\p2 Sign of Integer Number.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab Methods and Debugging\p2 Sign of Integer Number\bin\Debug\p2 Sign of Integer Number.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab Methods and Debugging\p2 Sign of Integer Number\bin\Debug\p2 Sign of Integer Number.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab Methods and Debugging\p2 Sign of Integer Number\obj\Debug\p2 Sign of Integer Number.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab Methods and Debugging\p2 Sign of Integer Number\obj\Debug\p2 Sign of Integer Number.pdb

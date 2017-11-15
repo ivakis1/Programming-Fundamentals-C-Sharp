@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Elevator\bin\Debug\Elevator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Elevator\bin\Debug\Elevator.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Elevator\bin\Debug\Elevator.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Elevator\obj\Debug\Elevator.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables\Elevator\obj\Debug\Elevator.pdb

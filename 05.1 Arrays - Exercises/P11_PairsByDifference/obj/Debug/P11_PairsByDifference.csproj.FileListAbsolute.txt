@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\bin\Debug\P11_PairsByDifference.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\bin\Debug\P11_PairsByDifference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\bin\Debug\P11_PairsByDifference.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\obj\Debug\P11_PairsByDifference.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\obj\Debug\P11_PairsByDifference.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P11_PairsByDifference\obj\Debug\P11_PairsByDifference.pdb

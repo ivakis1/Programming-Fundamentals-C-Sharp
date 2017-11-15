@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P02_PhonebookUpgrade\bin\Debug\P02_PhonebookUpgrade.exe.config

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\bin\Debug\P10_IndexOfLetters.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\obj\Debug\P10_IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\bin\Debug\P10_IndexOfLetters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\bin\Debug\P10_IndexOfLetters.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\obj\Debug\P10_IndexOfLetters.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Arrays - Exercises\P10_IndexOfLetters\obj\Debug\P10_IndexOfLetters.pdb

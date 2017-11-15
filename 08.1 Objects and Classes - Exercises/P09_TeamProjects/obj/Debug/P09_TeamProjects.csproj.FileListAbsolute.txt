@@ -1,0 +1,7 @@
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\bin\Debug\P09_TeamProjects.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\bin\Debug\P09_TeamProjects.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\bin\Debug\P09_TeamProjects.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\obj\Debug\P09_TeamProjects.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\obj\Debug\P09_TeamProjects.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\obj\Debug\P09_TeamProjects.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Exercises - Objects and Classes\P09_TeamProjects\obj\Debug\P09_TeamProjects.pdb

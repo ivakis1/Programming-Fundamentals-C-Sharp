@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\bin\Debug\P7_SumOfArrays.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\bin\Debug\P7_SumOfArrays.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\bin\Debug\P7_SumOfArrays.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\obj\Debug\P7_SumOfArrays.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\obj\Debug\P7_SumOfArrays.exe
+C:\Users\User\documents\visual studio 2015\Projects\Lab Arrays\P7_SumOfArrays\obj\Debug\P7_SumOfArrays.pdb

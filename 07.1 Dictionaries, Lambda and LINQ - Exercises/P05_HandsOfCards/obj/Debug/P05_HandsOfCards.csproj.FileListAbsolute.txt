@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\bin\Debug\P05_HandsOfCards.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\bin\Debug\P05_HandsOfCards.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\bin\Debug\P05_HandsOfCards.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\obj\Debug\P05_HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\obj\Debug\P05_HandsOfCards.exe
+C:\Users\User\documents\visual studio 2015\Projects\Exercises - Dictionaries, Lambda and LINQ\P05_HandsOfCards\obj\Debug\P05_HandsOfCards.pdb

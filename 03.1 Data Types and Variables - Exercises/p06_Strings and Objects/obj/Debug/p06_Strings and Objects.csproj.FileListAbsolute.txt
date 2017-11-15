@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p06_Strings and Objects\obj\Debug\p06_Strings and Objects.exe
+c:\users\user\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\p06_Strings and Objects\obj\Debug\p06_Strings and Objects.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\bin\Debug\p06_Strings and Objects.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\obj\Debug\p06_Strings and Objects.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\obj\Debug\p06_Strings and Objects.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\p06_Strings and Objects\obj\Debug\p06_Strings and Objects.pdb

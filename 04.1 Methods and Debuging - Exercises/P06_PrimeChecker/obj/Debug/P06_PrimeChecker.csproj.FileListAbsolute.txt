@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\bin\Debug\P06_PrimeChecker.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\bin\Debug\P06_PrimeChecker.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\bin\Debug\P06_PrimeChecker.pdb
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\obj\Debug\P06_PrimeChecker.exe
+c:\users\user\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\obj\Debug\P06_PrimeChecker.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Methods and Debuging - Exercises\P06_PrimeChecker\obj\Debug\P06_PrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\User\documents\visual studio 2015\Projects\C sharp Intro\P2_Rectangle Area\bin\Debug\P2_Rectangle Area.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\C sharp Intro\P2_Rectangle Area\bin\Debug\P2_Rectangle Area.exe
+C:\Users\User\documents\visual studio 2015\Projects\C sharp Intro\P2_Rectangle Area\bin\Debug\P2_Rectangle Area.pdb
+C:\Users\User\documents\visual studio 2015\Projects\C sharp Intro\P2_Rectangle Area\obj\Debug\P2_Rectangle Area.exe
+C:\Users\User\documents\visual studio 2015\Projects\C sharp Intro\P2_Rectangle Area\obj\Debug\P2_Rectangle Area.pdb

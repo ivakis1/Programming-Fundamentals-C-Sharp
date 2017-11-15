@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.exe.config
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\bin\Debug\P19_Thea The Photographer.pdb
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.csprojResolveAssemblyReference.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.csproj.CoreCompileInputs.cache
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.exe
+C:\SoftUni Courses\2. Programing fundamentals C#\Programming Fundamentals\Data Types and Variables - Exercises\P19_Thea The Photographer\obj\Debug\P19_Thea The Photographer.pdb
